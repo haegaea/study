@@ -8,7 +8,7 @@
 
 - 실습 결과
 
-![에코 데스트 결과](./Image/echoTestResult.png)
+![에코 데스트 결과](./image/echoTestResult.png)
 
 - 실습 코드
 
